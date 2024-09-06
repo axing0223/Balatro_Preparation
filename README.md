@@ -3,9 +3,13 @@ In the collection interface, select the initial joker you want to start the game
 In the collection interface, select the initial joker you want to start the game.
 Use F1-F4 to add corresponding effects to the joker cards
 [f1] Negative
+
 [f2] Foil
+
 [f3] Laser
+
 [f4] Multicolor
+
 
 Use F5 to reset the initial joker cards.
 [F5] Reset
@@ -27,9 +31,13 @@ The above is translated by Google
 在收藏界面中，选择好你想要的初始小丑牌来开始游戏。
 使用F1-F4来为小丑牌添加对应的效果
 【f1】负片
+
 【f2】闪箔
+
 【f3】镭射
+
 【f4】多彩
+
 
 使用F5来重置初始小丑牌。
 【F5】重置
@@ -41,6 +49,7 @@ The above is translated by Google
 文件路径：C:\Users\<USER>\AppData\Roaming\Balatro\Mods\Preparation.lua
 
 此mod依靠open与参考另外两位mod开发者制作。
+
 Choose First Shop Joker：https://www.nexusmods.com/balatro/mods/11
 
 Balatro Configurator：https://www.nexusmods.com/balatro/mods/2
