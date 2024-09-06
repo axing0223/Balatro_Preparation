@@ -17,7 +17,9 @@ Requires [Steamodded] support, please remember to add the [version.dll] file to 
 File path: C:\Users\<USER>\AppData\Roaming\Balatro\Mods\Preparation.lua
 
 This mod is made by open and reference to two other mod developers.
+
 Choose First Shop Joker: https://www.nexusmods.com/balatro/mods/11
+
 Balatro Configurator: https://www.nexusmods.com/balatro/mods/2
 
 The above is translated by Google
@@ -40,4 +42,5 @@ The above is translated by Google
 
 此mod依靠open与参考另外两位mod开发者制作。
 Choose First Shop Joker：https://www.nexusmods.com/balatro/mods/11
+
 Balatro Configurator：https://www.nexusmods.com/balatro/mods/2
